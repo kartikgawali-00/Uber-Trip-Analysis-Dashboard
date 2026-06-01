@@ -151,8 +151,7 @@ The dataset contains Uber trip booking information including:
 
 ### 📷 Dashboard Preview
 
-<img src="https://github.com/kartikgawali-00/Uber-Trip-Analysis-Dashboard/blob/main/Dashboard%20Images/Screenshot%202026-06-01%20181910.png?raw=true">
-
+<img src="Dashboard Images/Screenshot 2026-06-01 181910.png">
 ---
 
 ## 3️⃣ Details Analysis
